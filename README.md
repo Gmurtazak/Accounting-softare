@@ -1,6 +1,6 @@
 For any inquiries, support, or custom feature requests, please reach out to us via the following:
 
-📧 Email: 
+📧 Email: ghulammurtaza@barakaherpsolutions.com  
 
 📞 Phone: +92-323-2054415
 
