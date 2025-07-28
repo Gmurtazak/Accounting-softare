@@ -1,11 +1,11 @@
 For any inquiries, support, or custom feature requests, please reach out to us via the following:
 
-📧 Email: support@uzairexport.com
+📧 Email: 
 
 📞 Phone: +92-323-2054415
 
-🌐 Website: www.uzairexport.com
-Welcome to the https://barakaherpsolutions.com/. custom accounting software repository. This system is designed for internal financial transaction management, including Purchases, Cash, and Bank Vouchers.
+🌐 Website: (https://barakaherpsolutions.com/)
+custom accounting software repository. This system is designed for internal financial transaction management, including Purchases, Cash, and Bank Vouchers.
 
 📌 Features
 Purchase Entry
