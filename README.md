@@ -78,3 +78,5 @@ PHP	7.4+
 MySQL	5.7+
 Laravel	8.x+
 Local Dev	XAMPP / LAMP recommended
+
+images/1.png
