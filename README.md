@@ -82,6 +82,8 @@ https://github.com/Gmurtazak/Accounting-softare/blob/main/images/1.png
 
 https://github.com/Gmurtazak/Accounting-softare/blob/main/images/Screenshot%202025-07-25%20181456.png
 
+https://github.com/Gmurtazak/Accounting-softare/blob/main/images/Screenshot%202025-07-25%20181517.png
+
 https://github.com/Gmurtazak/Accounting-softare/blob/main/images/Screenshot%202025-07-25%20181535.png
 
 https://github.com/Gmurtazak/Accounting-softare/blob/main/images/Screenshot%202025-07-25%20181630.png
